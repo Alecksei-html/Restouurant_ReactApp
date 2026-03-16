@@ -1,0 +1,8 @@
+.info {
+    font-family: 'font-noto' serif;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.8);
+    /* width: 500px; */
+    position:relative;
+    border-radius: 5px 5px 5px 5px;
+}
