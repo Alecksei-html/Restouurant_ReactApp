@@ -1,0 +1,14 @@
+.Footer {
+    position:relative;
+    background-image: url(https://st2.depositphotos.com/5664962/46247/i/600/depositphotos_462473598-stock-photo-spaghetti-tomatoes-basil-black-concrete.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position:center;
+    height:200px;
+    justify-content: center;
+    display: flex;
+    /* text-align: center; */
+    margin-top:10px;
+    font-family: "font-noto";
+    border-radius: 5px 5px 5px 5px;
+}
